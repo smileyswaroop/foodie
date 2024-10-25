@@ -1,0 +1,168 @@
+.logo {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 12%;
+    padding: 0px 15px;
+    color:white;
+}
+
+.navbar {
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25%;
+    gap: 35px;
+    display: flex;
+    padding:30px;
+    color:white;
+}
+
+.banner{
+    color: #ff8d29;
+    font-size: 32px;
+    font-style: italic;
+    margin-left: 30%;
+    margin-top: 25%;
+    
+}
+
+.h1{
+    font-size: 45px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30%;
+    color:white;
+
+}
+
+.p{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30%;
+    color:white;
+}
+
+.burger{
+    margin-top: 70px;
+    margin-left: 20%;
+   
+}
+.menu1{
+    margin-top: 20px;
+    margin-left: 12%;
+    border: 1px solid lightgrey;
+    width: 20%;
+}
+.menu2{
+    margin-top: 20px;
+    margin-left: 20px; 
+    border: 1px solid lightgrey;
+    width: 20%;
+}
+.menu3{
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 1px solid lightgrey;
+    width: 20%;
+}
+.menu{
+    display: flex;
+}
+
+.menu4{
+    margin-top: 20px;
+    margin-left: 12%;
+    border: 1px solid lightgrey;
+    width: 20%;
+}
+.menu5{
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 1px solid lightgrey;
+    width: 20%;
+}
+.menu6{
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 1px solid lightgrey;
+    width: 20%;
+}
+.menuA{
+    display: flex;
+}
+
+.chef1{
+    border: 1px solid gray;
+    margin-left: 12%;
+    height:200px;
+    width: 25%;
+}
+.chef2{
+    border: 1px solid gray;
+    margin-left: 12px;
+    height:200px;
+    width: 25%;
+}
+.chef3{
+    border: 1px solid gray;
+    margin-left: 12px;
+    height:200px;
+    width: 25%;
+}
+.blog1{
+    margin-left: 12%;
+    height: 500px;
+    width: 370px;
+    border: 1px solid lightgrey;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+   
+}
+.blog2{
+    margin-left: 12px;
+    height: 500px;
+    width: 370px;
+    border: 1px solid lightgrey;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.blog3{
+    margin-left: 12px;
+    height: 500px;
+    width: 370px;
+    border: 1px solid lightgrey;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.blog{
+    display: flex;
+}
+/* Footer Section */
+.f1{
+    height: 200px;
+    width: 300px;
+    border: 1px solid white;
+    margin-left: 12%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.f2{
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    margin-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.f3{
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    margin-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
